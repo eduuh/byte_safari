@@ -1,5 +1,5 @@
 function generateRandomNumber() {
-  const randomNumber = Math.random();
+  const randomNumber: number = Math.random();
   if (randomNumber > 0.5) {
     throw new Error('Invalid number');
   }

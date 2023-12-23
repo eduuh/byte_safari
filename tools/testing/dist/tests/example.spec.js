@@ -1,3 +1,4 @@
+"use strict";
 /*import { test, expect } from "@playwright/test" // test function is a named import
 
 test("Products Page Add To basket", async ({ page }) => {
@@ -5,8 +6,9 @@ test("Products Page Add To basket", async ({ page }) => {
      const button = page.getByRole(["data-qa='product-button'"]).first();
      await button.waitFor();
      await button.click();
-     await expect(button).toHaveText("Remove from Basket"); 
+     await expect(button).toHaveText("Remove from Basket");
      await page.pause();
 })
 
-*/
+*/ 
+//# sourceMappingURL=example.spec.js.map
