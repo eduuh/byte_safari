@@ -1,0 +1,7 @@
+PATCH https://reqres.in/api/users/2
+Content-Type: application/json
+
+{
+    "name": "morpheus",
+    "job": "zion resident"
+}
