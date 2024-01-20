@@ -1,1 +1,14 @@
 ### TOC
+
+Running binary crate
+
+```bash
+cargo run --bin app
+```
+
+visualize the modules
+
+```bash
+cargo install cargo-modules
+cargo modules structure --lib
+```

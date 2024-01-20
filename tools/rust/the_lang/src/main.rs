@@ -1,7 +1,21 @@
 use std::collections::HashMap;
+use the_lang::{Category, Customer, Order, Product};
 
 #[allow(dead_code, unused_variables)]
 fn main() {
+    modules_crates();
+    // learn_basic();
+}
+
+fn modules_crates() {
+    let product: Product =
+        Product::new(23, "Smart Phone".to_string(), 200.0, Category::Electronics);
+    let customer: Customer = Customer::new(2.0, "Edwin".to_string(), "eduu@test.com".to_string());
+    let order: Order = Order::new(2, product, customer, 20);
+    println!("The total cost is {}", order.total_bill());
+}
+
+fn learn_basic() {
     variables();
     scalar_datatypes();
     compound_datatypes();
@@ -16,6 +30,7 @@ fn main() {
     learn_enums();
     more_struct_optional();
     hash_Maps();
+    learn_codeArrangement();
 }
 
 fn variables() {
@@ -589,4 +604,24 @@ fn hash_Maps() {
         let freq = fre_vec.entry(*i).or_insert(0);
         *freq += 1;
     }
+}
+
+fn learn_codeArrangement() {
+    // Packages
+    // - Managed thro cargo command : cargo new, cargo build, cargo test
+    // - Highest leve of organization
+    // - Contains binary or library crates. Compilation units, contains functions and structs
+    //
+    // Crate
+    // - Compilation unit
+    // - Can be a binary crate or a library crate
+    // - Contains as many modules as fit
+    //
+    // Modules
+    // Contro at a finer level, the structure, visibility and privacy
+    //
+    // Packages Rules
+    // 1. Must have at least one crate
+    // 2. At most 1 library crate
+    // 3. Any number of binary crates.
 }
