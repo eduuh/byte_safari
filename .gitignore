@@ -53,3 +53,7 @@ Cargo.lock
 *.exe
 *.out
 *.app
+
+node_modules
+/node_modules
+./**/node_modules
