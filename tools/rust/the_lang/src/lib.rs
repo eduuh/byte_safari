@@ -90,3 +90,42 @@ mod order {
         }
     }
 }
+
+pub fn add(left: usize, right: usize) -> usize {
+    left + right
+}
+
+mod shapes {
+    pub struct Circle {
+        radius: f32,
+    }
+
+    impl Circle {
+        pub fn new(radius: f32) -> Circle {
+            Circle { radius }
+        }
+
+        pub fn contains(&self, other: &Circle) -> bool {
+            self.radius > other.radius
+        }
+    }
+}
+
+#[cfg(test)]
+mod test {
+    use super::*;
+
+    #[test]
+    fn it_works() {
+        let result = add(20, 30);
+        assert_eq!(result, 50);
+    }
+
+    #[test]
+    fn larger_circle_should_contain_smaller() {
+        let larger_c = shapes::Circle::new(20.2);
+        let small_c = shapes::Circle::new(10.3);
+
+        assert_eq!(larger_c.contains(&small_c), true);
+    }
+}
