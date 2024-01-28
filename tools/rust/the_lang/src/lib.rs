@@ -1,4 +1,3 @@
-// pub use: allow use to export module without making them public
 pub use customer2::Customer;
 pub use order::Order;
 pub use product::{Category, Product};
@@ -15,6 +14,7 @@ mod product {
 
     mod category {
 
+        #[derive(Debug)]
         pub enum Category {
             Electronics,
             Clothings,
@@ -37,6 +37,13 @@ mod product {
         pub fn product_price(&self) -> f64 {
             self.price + self.caculate_tax()
         }
+
+        pub fn print_product(&self) {
+            println!("Product Name: {}", self.name);
+            println!("Product Id: {}", self.id);
+            println!("Product Price: {}", self.price);
+            println!("Product Category: {:?}", self.category);
+        }
     }
 }
 
@@ -51,6 +58,12 @@ mod customer2 {
     impl Customer {
         pub fn new(id: f64, name: String, email: String) -> Customer {
             Customer { id, name, email }
+        }
+
+        pub fn print_customer(&self) {
+            println!("Customer Name: {}", self.name);
+            println!("Customer Id: {}", self.id);
+            println!("Customer Email: {}", self.email);
         }
     }
 }
@@ -83,6 +96,14 @@ mod order {
             }
         }
 
+        pub fn print_order(&self) {
+            println!("Order Id: {}", self.id);
+            println!("Order Quantity: {}", self.quantity);
+            println!("Order Total Bill: {}", self.total_bill());
+            self.product.print_product();
+            self.customer.print_customer();
+        }
+
         pub fn total_bill(&self) -> f64 {
             let discount = self.calculate_discount();
             let cost_before_discount = self.product.product_price() * self.quantity as f64;
@@ -107,6 +128,10 @@ mod shapes {
 
         pub fn contains(&self, other: &Circle) -> bool {
             self.radius > other.radius
+        }
+
+        pub fn print_circle(&self) {
+            println!("Circle Radius: {}", self.radius);
         }
     }
 }
