@@ -1,4 +1,15 @@
-### TOC
+---
+id: readme
+aliases:
+  - Eduuh Getting Rusty
+tags: []
+---
+
+<div align="center">
+
+# Eduuh Getting Rusty
+
+</div>
 
 Running binary crate
 
