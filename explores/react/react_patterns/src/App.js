@@ -1,11 +1,9 @@
-import { LayoutDP } from "./components/Layout/Entry";
-import { Lists } from "./components/Layout/Lists/ListsExamples";
+import { Menu6 } from "./components/6-inline-pattern/start";
 
 function App() {
   return (
     <>
-      <LayoutDP />;
-      <Lists />
+      <Menu6 />
     </>
   );
 }
