@@ -20,3 +20,7 @@ git rebase -r <some commit before all of your bad commits> \
 ```
 
 source: https://stackoverflow.com/questions/750172/how-do-i-change-the-author-and-committer-name-email-for-multiple-commits
+
+## Delete other branch except main/master
+
+git branch | grep -v "master" | xargs git branch -D
