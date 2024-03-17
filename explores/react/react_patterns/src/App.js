@@ -1,11 +1,10 @@
-import { LayoutDP } from "./components/Layout/Entry";
-import { Lists } from "./components/Layout/Lists/ListsExamples";
+import "./App";
+import HeroPage from "./components/css_patterns/padding_patterns/11-vertical-center/start";
 
 function App() {
   return (
     <>
-      <LayoutDP />;
-      <Lists />
+      <HeroPage />
     </>
   );
 }
