@@ -1,3 +1,11 @@
+---
+id: graph
+aliases: []
+tags: []
+area: ""
+project: ""
+---
+
 ## Graph Data Structure
 
 ```mermaid

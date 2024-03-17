@@ -1,26 +1,23 @@
 import { styled, css } from "styled-components";
 import { Icon } from "../5-inline-bundle-pattern/menu";
 import { InlineBundle } from "../5-inline-bundle-pattern/start";
+import { MenuWrapper } from "../6-inline-pattern/start";
 
 const stretchSchema = {
-  all: `> * { flex: 1}`,
-  start: `> :first-child { flex: 1}`,
-  end: `> :last-Child { flex: 1}`,
+  all: `> *  { flex: 1 }`,
+  start: `> :first-child { flex: 1 }`,
+  end: `> :last-child { flex: 1 }`,
 };
-
-const MenuWrapper = styled.div`
-  min-width: 254px;
-`;
 
 const responsive = css`
   --switchAt: ${({ switchAt }) =>
-    typeof switchAt == "string" ? switchAt : `${switchAt}px`};
+    typeof switchAt === "string" ? switchAt : `${switchAt}px`};
 
   flex-wrap: wrap;
 
   & > * {
     min-width: fit-content;
-    flex-basis: calc((40rem - (100% - var(--gutter)))) * 999;
+    flex-basis: calc((var(--switchAt) - (100% - var(--gutter))) * 999);
   }
 `;
 
@@ -29,7 +26,7 @@ export const Inline = styled(InlineBundle)`
 
   ${({ stretch }) => {
     if (typeof stretch === "number") {
-      return `> :nth-child(${stretch + 1}) { flex: 1}`;
+      return `> :nth-child(${stretch + 1}) { flex: 1 }`;
     }
     return stretchSchema[stretch] ?? "";
   }}
@@ -37,18 +34,14 @@ export const Inline = styled(InlineBundle)`
   ${({ switchAt }) => switchAt && responsive}
 `;
 
-// flex-basis
-// large negative number result to zero
-// large positive number = available width
-
-export const Menu6 = () => {
+const Menu = () => {
   return (
     <MenuWrapper>
-      <Inline stretch={0} switchAt="200px">
+      <Inline stretch={1} switchAt="40rem">
         <div>
           <Icon />
         </div>
-        <InlineBundle gutter="m" align="center" justify="center">
+        <InlineBundle gutter="m" justify="center" align="center">
           <span>Books</span>
           <span>Authors</span>
           <span>Deals</span>
@@ -62,3 +55,5 @@ export const Menu6 = () => {
     </MenuWrapper>
   );
 };
+
+export default Menu;

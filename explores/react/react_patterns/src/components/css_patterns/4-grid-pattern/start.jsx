@@ -1,8 +1,8 @@
 import { styled } from "styled-components";
-import { spaceSchema } from "../common/common";
+import { spaceSchema } from "../../common/common";
 import { Card } from "./card";
 
-const Grid = styled.div`
+export const Grid = styled.div`
   display: grid;
   gap: ${(props) => spaceSchema[props.gutter] ?? spaceSchema.l};
   grid-template-columns: repeat(

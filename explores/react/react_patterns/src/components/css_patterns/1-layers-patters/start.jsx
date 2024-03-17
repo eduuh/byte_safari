@@ -1,7 +1,7 @@
 import { styled } from "styled-components";
-import { spaceSchema } from "../common/common";
+import { spaceSchema } from "../../common/common";
 
-const Layers = styled.div`
+export const Layers = styled.div`
   display: grid;
   gap: ${(props) => spaceSchema[props.gutter] ?? spaceSchema.l};
 `;

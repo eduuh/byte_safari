@@ -1,9 +1,10 @@
-import { Menu6 } from "./components/6-inline-pattern/start";
+import "./App";
+import HeroPage from "./components/css_patterns/padding_patterns/11-vertical-center/start";
 
 function App() {
   return (
     <>
-      <Menu6 />
+      <HeroPage />
     </>
   );
 }

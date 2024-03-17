@@ -31,7 +31,7 @@ export const InfoFormWithColumns = () => {
 
 const Form = () => {
   return (
-    <Columns columns="6" gutter="xxl">
+    <Columns columns={6} gutter="xxl">
       <Column $span={3}>
         <InputGroup htmlFor="firstName" label="First Name">
           <input type="text" id="firstName" />

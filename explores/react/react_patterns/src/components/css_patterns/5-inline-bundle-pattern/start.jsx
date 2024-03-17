@@ -1,5 +1,5 @@
 import { styled } from "styled-components";
-import { spaceSchema } from "../common/common";
+import { spaceSchema } from "../../common/common";
 import { MenuBasis } from "./menu";
 
 const justifyScheme = {
