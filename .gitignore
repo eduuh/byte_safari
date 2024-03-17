@@ -57,3 +57,9 @@ Cargo.lock
 node_modules
 /node_modules
 ./**/node_modules
+./**/*out*/
+*out*/
+
+# Added by cargo
+
+/target

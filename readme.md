@@ -1,10 +1,3 @@
----
-id: readme
-aliases:
-  - Eduuh Byte Safari
-tags: []
----
-
 <div align="center">
 
 # Eduuh Byte Safari
@@ -29,3 +22,5 @@ tags: []
 ## DSA n ALgo
 
 1. [DSA Graphs](./src/ds/graph/graph.md)
+
+### Coding

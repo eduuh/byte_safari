@@ -1,11 +1,8 @@
 fn main() {
-    println!("Hello, world!");
-    data_type_definitions();
-}
+    use std::io;
 
-fn data_type_definitions() {
-    let mut x: i16 = 10;
-    print!("{}", x);
-    x = 20;
-    print!("{}", x);
+    let lines = io::stdin().lines();
+    for line in lines {
+        println!("{}", line.unwrap());
+    }
 }
