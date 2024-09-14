@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1726307106203" clover="3.2.0">
+  <project timestamp="1726307106203" name="All files">
+    <metrics statements="14" coveredstatements="14" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3" elements="23" coveredelements="23" complexity="0" loc="14" ncloc="14" packages="1" files="1" classes="1"/>
+    <file name="LRUCache.ts" path="/Users/edwinmuraya/.config/nvim/test/ts/LRUCache.ts">
+      <metrics statements="14" coveredstatements="14" conditionals="6" coveredconditionals="6" methods="3" coveredmethods="3"/>
+      <line num="6" count="14" type="stmt"/>
+      <line num="7" count="14" type="stmt"/>
+      <line num="11" count="226" type="cond" truecount="2" falsecount="0"/>
+      <line num="12" count="8" type="stmt"/>
+      <line num="14" count="218" type="stmt"/>
+      <line num="15" count="218" type="stmt"/>
+      <line num="16" count="218" type="stmt"/>
+      <line num="17" count="218" type="stmt"/>
+      <line num="21" count="1124" type="cond" truecount="2" falsecount="0"/>
+      <line num="22" count="2" type="stmt"/>
+      <line num="23" count="1122" type="cond" truecount="2" falsecount="0"/>
+      <line num="25" count="1052" type="stmt"/>
+      <line num="26" count="1052" type="stmt"/>
+      <line num="28" count="1124" type="stmt"/>
+    </file>
+  </project>
+</coverage>
