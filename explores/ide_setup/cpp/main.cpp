@@ -1,4 +1,4 @@
-#include <bits/stdc++.h>
+#include "../../../explores/cpp/stdc++.h"
 #include <ios>
 #include <iostream>
 

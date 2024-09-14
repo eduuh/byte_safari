@@ -1,8 +1,7 @@
-<div align="center">
-
 # Eduuh Byte Safari
 
-</div>
+## Debugging typescript
+
+Debugging typescript will require - a tsconfig the root
 
 ## TOC
-

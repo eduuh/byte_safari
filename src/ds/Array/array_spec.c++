@@ -2,5 +2,7 @@
 
 int main() {
   int a = 2;
-  std::cout << a << std::endl;
+  int b;
+  std::cin >> b;
+  std::cout << b << std::endl;
 }

@@ -58,8 +58,16 @@ node_modules
 /node_modules
 ./**/node_modules
 ./**/*out*/
+./**/*.out.dSYM*/
 *out*/
 
 # Added by cargo
 
 /target
+
+# Ignore all .dSYM directories
+*.dSYM/
+
+# Ignore all .out.yml files
+*.out.yml
+

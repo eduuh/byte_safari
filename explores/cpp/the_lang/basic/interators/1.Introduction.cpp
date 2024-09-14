@@ -31,8 +31,7 @@ void interatorWithAuto() {
 
 int main(int argc, const char **argv) {
   interatorsVerbose();
-  cout << "With auto: Iterators"
-       << "\n";
+  cout << "With auto: Iterators" << "\n";
   interatorWithAuto();
 
   // input interator: This is the simplest form of iterator
