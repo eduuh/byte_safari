@@ -1,6 +1,14 @@
+---
+id: array
+aliases: []
+tags: []
+area: ""
+project: ""
+---
+
 ## C++ Array
 
-- Array are index based from 0. 
+- Array are index based from 0.
 - linear collection of elements in a continous memory.
 - Element should be of the same type.
 
