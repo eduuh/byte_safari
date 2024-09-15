@@ -69,3 +69,9 @@ This repository is designed to complement my [Neovim configuration](https://gith
 - **Comprehensive Documentation:** Develop thorough documentation to make the repository a useful reference for future use.
 - **Modular Learning:** Organize solutions into categories based on topics such as sorting, graphs, dynamic programming, and more.
 - **Code Challenges:** Set up daily or weekly coding challenges to maintain consistency in learning and problem-solving.
+
+### Related Repos
+
+1. [nvim Configuration](https://github.com/eduuh/nvim)
+2. [HomeLab](https://github.com/eduuh/homelab)
+3. [dotfiles - Base Configuration](https://github.com/eduuh/dotfiles)
