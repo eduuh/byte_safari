@@ -1,70 +1,71 @@
 # Eduuh Byte Safari
 
-- This repository is optimized to be used with my [Neovim configuration](https://github.com/eduuh/nvim), enabling a highly efficient and customizable development workflow.
+This repository is designed to complement my [Neovim configuration](https://github.com/eduuh/nvim), offering a streamlined and customizable development environment.
 
 ## Objective
 
-- **Knowledge repository:** Serve as an Obsidian vault for keeping all notes organized in Markdown format.
-- **Code and learning hub:** A place for continuous learning, experimentation, and refining skills in Data Structures & Algorithms (DSA), frameworks, and Neovim configurations.
+- **Knowledge Repository:** Functions as an Obsidian vault, storing notes in Markdown format for easy organization and reference.
+- **Learning Hub:** A space for continuous growth, focusing on Data Structures & Algorithms (DSA), frameworks, and Neovim configuration.
 
 ## 1. Data Structures & Algorithms (DSA)
 
-### Key Goals
+### Goals
 
-- **Unified solution format:** Build each solution in one file with reusable test cases that work across different programming languages.
-- **Language diversity:** Solve problems in multiple languages to improve fluency and proficiency in various syntaxes and paradigms.
-- **Repository growth:** Continuously add to the repository as new solutions, algorithms, or concepts are learned.
-- **Fast debugging:** Use Neovim's DAP (Debug Adapter Protocol) for efficient and rapid debugging of solutions.
+- **Unified Solution Format:** Build each solution in one file, with reusable test cases that work across different programming languages.
+- **Language Diversity:** Solve problems in various languages to improve proficiency in different syntaxes and paradigms.
+- **Repository Growth:** Expand the repository as new concepts and solutions are learned.
+- **Fast Debugging:** Leverage [Neovim DAP](https://github.com/mfussenegger/nvim-dap) (Debug Adapter Protocol) for efficient debugging.
 
 ### Future DSA Enhancements
 
-- **Automated question downloads:** Integrate a system to download problems from platforms like LeetCode, Codeforces, or any other online judge, and automate the submission of solutions.
-- **Competitive programming bootstrap:** Set up an environment for competitive programming with templates and quick-start configurations to speed up problem-solving.
-- **Interactive challenges:** Add interactive notebooks or tools like Jupyter to visualize and better understand the algorithms.
+- **Automated Question Downloads:** Integrate tools to download questions from platforms like [LeetCode](https://leetcode.com), [Codeforces](https://codeforces.com), or other online judges, and automate solution submissions.
+- **Competitive Programming Bootstrap:** Set up a development environment for competitive programming with quick-start templates.
+- **Interactive Challenges:** Incorporate tools like embedded code-runners on my
+  blog, visualization tools.
 
-## 2. Frameworks Exploration (Any Language)
+## 2. Framework Exploration (Any Language)
 
 ### Core Principles
 
-- **Sandbox for ideas:** Provide a greenfield environment to test ideas and explore new frameworks without waiting for lengthy build times.
-- **Cross-language experiments:** Use the repository to test framework capabilities across different programming languages and environments.
+- **Sandbox for Ideas:** Provide an isolated environment to experiment with ideas and frameworks without waiting for lengthy build times.
+- **Cross-Language Testing:** Experiment with various frameworks across different programming languages.
 
 ### Future Additions
 
-- **Template generator:** Add a script or tool to generate boilerplate code for common frameworks, making it easy to start new experiments.
-- **Framework comparisons:** Create benchmarks or comparison tests to evaluate different frameworks on key factors like performance, ease of use, and scalability.
+- **Template Generator:** Create a script or tool to generate boilerplate code for common frameworks, facilitating rapid experimentation.
+- **Framework Comparison:** Set up benchmarks to evaluate different frameworks based on performance, ease of use, and scalability.
 
 ## 3. Neovim Configuration Testing
 
 ### Purpose
 
-- **Stability and reliability:** This section is dedicated to testing and maintaining the stability of my Neovim configuration by experimenting with new plugins, themes, or settings.
+- **Stability and Reliability:** Dedicated to testing and maintaining the stability of my Neovim configuration by experimenting with plugins, themes, and settings.
 
 ### Testing Approach
 
-- **Isolated config environment:** Test new configurations or plugins in an isolated environment to avoid breaking the main setup.
-- **Performance checks:** Regularly run tests to ensure the setup remains lightweight and efficient.
-- **Version control:** Track changes and test different versions of plugins to ensure compatibility and smooth upgrades.
+- **Isolated Config Environment:** Test new configurations or plugins in an isolated environment to avoid breaking the main setup.
+- **Performance Monitoring:** Regularly check the performance of the setup to ensure it remains lightweight and efficient.
+- **Version Control:** Use version control to track changes in configuration, ensuring compatibility and easy upgrades.
 
 ## 4. Competitive Programming Roadmap
 
 ### Immediate Goals
 
-- **DSA Practice Sessions:** Regularly tackle DSA problems to build proficiency in both theory and implementation.
-- **Solution Review:** Review and optimize existing solutions to refine coding style and improve efficiency.
+- **Regular DSA Practice:** Tackle DSA problems regularly to build proficiency in both theory and implementation.
+- **Solution Review:** Continuously review and optimize existing solutions for better coding practices and efficiency.
 
-### Mid-term Goals
+### Mid-Term Goals
 
-- **Multi-language proficiency:** Solve problems in at least three different languages to enhance problem-solving flexibility.
-- **Participation in contests:** Use the setup for active participation in competitive programming platforms (LeetCode, Codeforces, etc.).
+- **Multi-Language Proficiency:** Solve problems in at least three different languages to enhance problem-solving flexibility.
+- **Contest Participation:** Actively participate in platforms like [LeetCode](https://leetcode.com), [Codeforces](https://codeforces.com), and [AtCoder](https://atcoder.jp/) using the setup.
 
-### Long-term Goals
+### Long-Term Goals
 
-- **Automated workflow:** Set up a fully automated workflow for downloading problems, solving them locally, and submitting them directly via CLI.
+- **Automated Workflow:** Establish an automated workflow for downloading problems, solving them locally, and submitting solutions directly via CLI.
 
-## 5. General Ideas for Growth
+## 5. Ideas for Growth
 
-- **Versioned solutions:** Keep track of different versions of DSA solutions, comparing performance and approaches.
-- **Documentation:** Add comprehensive documentation to make the repository a useful reference for yourself and others.
-- **Learning modules:** Organize solutions and notes into modules or categories based on difficulty or topic (e.g., Sorting, Graphs, Dynamic Programming).
-- **Code challenges:** Set up daily or weekly code challenges to stay consistent in learning and problem-solving.
+- **Versioned Solutions:** Maintain different versions of DSA solutions to compare approaches and performance.
+- **Comprehensive Documentation:** Develop thorough documentation to make the repository a useful reference for future use.
+- **Modular Learning:** Organize solutions into categories based on topics such as sorting, graphs, dynamic programming, and more.
+- **Code Challenges:** Set up daily or weekly coding challenges to maintain consistency in learning and problem-solving.
