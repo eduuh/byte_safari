@@ -1,5 +1,5 @@
-mod ownership;
 mod common;
+mod ownership;
 
 #[allow(dead_code, unused_variables)]
 fn main() {

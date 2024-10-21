@@ -1,11 +1,26 @@
 {
-  // Use IntelliSense to learn about possible attributes.
-  // Hover to view descriptions of existing attributes.
-  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
   "version": "0.2.0",
   "configurations": [
     {
-      "name": "ts-node",
+      "type": "codelldb",
+      "request": "launch",
+      "name": "C++ (config)",
+      "preLaunchTask": "CompileCpp",
+      "postDebugTask": "CleanCpp",
+      "expressions": "native",
+      "program": "${workspaceFolder}/${fileBasenameNoExtension}"
+    },
+    {
+      "type": "codelldb",
+      "request": "launch",
+      "name": "Rust (config)",
+      "preLaunchTask": "CompileRust",
+      "postDebugTask": "CleanRust",
+      "expressions": "native",
+      "program": "${workspaceFolder}/${fileBasenameNoExtension}"
+    },
+    {
+      "name": "Typescript (config)",
       "type": "node",
       "request": "launch",
       "args": [
