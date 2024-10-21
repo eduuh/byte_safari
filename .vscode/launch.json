@@ -5,8 +5,17 @@
       "type": "codelldb",
       "request": "launch",
       "name": "C++ (config)",
-      "preLaunchTask": "Compile",
-      "postDebugTask": "Clean",
+      "preLaunchTask": "CompileCpp",
+      "postDebugTask": "CleanCpp",
+      "expressions": "native",
+      "program": "${workspaceFolder}/${fileBasenameNoExtension}"
+    },
+    {
+      "type": "codelldb",
+      "request": "launch",
+      "name": "Rust (config)",
+      "preLaunchTask": "CompileRust",
+      "postDebugTask": "CleanRust",
       "expressions": "native",
       "program": "${workspaceFolder}/${fileBasenameNoExtension}"
     },

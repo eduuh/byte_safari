@@ -2,9 +2,14 @@
   "version": "2.0.0",
   "tasks": [
     {
-      "label": "Compile",
+      "label": "CompileCpp",
       "type": "shell",
       "command": "clang++ -std=c++20 -glldb -fstandalone-debug ${relativeFile} -o ${fileBasenameNoExtension}"
+    },
+    {
+      "label": "CompileRust",
+      "type": "shell",
+      "command": "rustc -C opt-level=0 -C debuginfo=2 ${relativeFile} -o ${fileBasenameNoExtension}"
     },
     {
       "label": "Compile G++",
@@ -12,7 +17,12 @@
       "command": "g++ -ggdb ${relativeFile} -o ${fileBasenameNoExtension}"
     },
     {
-      "label": "Clean",
+      "label": "CleanCpp",
+      "type": "shell",
+      "command": "rm ${fileBasenameNoExtension}"
+    },
+    {
+      "label": "CleanRust",
       "type": "shell",
       "command": "rm ${fileBasenameNoExtension}"
     }
