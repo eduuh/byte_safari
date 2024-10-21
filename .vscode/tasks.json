@@ -1,0 +1,20 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Compile",
+      "type": "shell",
+      "command": "clang++ -std=c++20 -glldb -fstandalone-debug ${relativeFile} -o ${fileBasenameNoExtension}"
+    },
+    {
+      "label": "Compile G++",
+      "type": "shell",
+      "command": "g++ -ggdb ${relativeFile} -o ${fileBasenameNoExtension}"
+    },
+    {
+      "label": "Clean",
+      "type": "shell",
+      "command": "rm ${fileBasenameNoExtension}"
+    }
+  ]
+}
