@@ -6,9 +6,9 @@ area: ""
 project: ""
 ---
 
-## Eduuh Byte Safari
+## Eduuh's Byte Safari
 
-This repository is designed to complement my [Neovim configuration](https://github.com/eduuh/nvim), offering a streamlined and customizable development environment.
+This repository is designed to store my public notes and related source code together.
 
 ### Objective
 
@@ -20,7 +20,7 @@ This repository is designed to complement my [Neovim configuration](https://gith
 #### Goals
 
 - **Unified Solution Format:** Build each solution in one file, with reusable test cases that work across different programming languages.
-- **Language Diversity:** Solve problems in various languages to improve proficiency in different syntaxes and paradigms.
+- **Language Diversity:** Solve problems in various languages to improve proficiency in different syntax's and paradigms.
 - **Repository Growth:** Expand the repository as new concepts and solutions are learned.
 - **Fast Debugging:** Leverage [Neovim DAP](https://github.com/mfussenegger/nvim-dap) (Debug Adapter Protocol) for efficient debugging.
 
