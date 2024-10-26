@@ -1,3 +1,11 @@
+---
+id: readme
+aliases: []
+tags: []
+area: ""
+project: ""
+---
+
 ## Eduuh Byte Safari
 
 This repository is designed to complement my [Neovim configuration](https://github.com/eduuh/nvim), offering a streamlined and customizable development environment.
@@ -75,13 +83,3 @@ This repository is designed to complement my [Neovim configuration](https://gith
 1. [nvim Configuration](https://github.com/eduuh/nvim)
 2. [HomeLab](https://github.com/eduuh/homelab)
 3. [dotfiles - Base Configuration](https://github.com/eduuh/dotfiles)
-
-### Debuging options
-
-```json
-"stdio": [
-                "input.txt",
-                null
-            ],
-
-```
