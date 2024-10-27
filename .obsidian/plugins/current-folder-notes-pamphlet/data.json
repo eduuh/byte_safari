@@ -1,0 +1,8 @@
+{
+  "excludeTitlesFilter": "_index,node_modules",
+  "includeTitleFilter": "",
+  "prettyTitleCase": true,
+  "includeSubfolderNotes": true,
+  "includeCurrentFileOutline": true,
+  "includeAllFilesOutline": true
+}
