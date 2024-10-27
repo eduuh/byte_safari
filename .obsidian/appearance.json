@@ -1,5 +1,6 @@
 {
   "theme": "obsidian",
   "baseFontSize": 25,
-  "baseFontSizeAction": false
+  "baseFontSizeAction": false,
+  "cssTheme": ""
 }
