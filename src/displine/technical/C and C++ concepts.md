@@ -148,7 +148,7 @@ r.width = 10;
 printf("Area of Rectagle is %d" r.length * r.width);
 ```
 
-## 3. Pointers
+## 3. [Pointers](./pointers/1_why&what_pointers.md)
 
 ### What are the type of variables?
 

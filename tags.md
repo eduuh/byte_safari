@@ -1,7 +1,11 @@
 ---
-id: undestanding_c_pointers
+id: tags
 aliases: []
 tags: []
 area: ""
 project: ""
 ---
+
+## tags
+
+C, Memory
