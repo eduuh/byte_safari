@@ -8,7 +8,8 @@
       "preLaunchTask": "CompileCpp",
       "postDebugTask": "CleanCpp",
       "expressions": "native",
-      "program": "${workspaceFolder}/${fileBasenameNoExtension}"
+      "program": "${workspaceFolder}/${fileBasenameNoExtension}",
+      "console": "externalTerminal"
     },
     {
       "type": "codelldb",
