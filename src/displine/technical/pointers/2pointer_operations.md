@@ -228,3 +228,45 @@ pv = pv + 1;
   - otherwise with copies we would need to update other arrays.
 
 - NO limit on the levels of indirection. But this can be confusing
+
+```c
+  char *titles[] = {"A Tale of two cities", "Wuthering Heights", "Don Quixote"};
+
+  char **bestBooks[3];
+  char **englishbooks[2];
+
+  bestBooks[0] = &titles[0];
+  bestBooks[1] = &titles[1];
+  bestBooks[2] = &titles[2];
+
+  englishbooks[0] = &titles[3];
+  printf("%s\n", *englishbooks[0]);
+
+```
+
+### constants and pointers
+
+- provide type protections.
+- a pointer can be defined to point to a constant.
+- This means a pointer cannot be used to modify the value.
+
+#### pointers to constants?
+
+- A pointer can be defined to point to a constant.
+- pointer cannot be used to modify the value it is referencing.
+- dereferencing a constaint pointer is okay.
+
+```c
+void pointer_to_constants() {
+  int num = 5;
+  const int limit = 500;
+  int *pi;
+
+  const int *pci;
+  pi = &num;
+  pci = &limit;
+}
+
+```
+
+- The declaration of a consta interger means

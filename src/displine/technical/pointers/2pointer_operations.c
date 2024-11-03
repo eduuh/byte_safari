@@ -69,6 +69,16 @@ void multiple_level_indirection() {
   printf("%s\n", *englishbooks[0]);
 }
 
+void pointer_to_constants() {
+  int num = 5;
+  const int limit = 500;
+  int *pi;
+
+  const int *pci;
+  pi = &num;
+  pci = &limit;
+}
+
 int main() {
   addition_n_substration();
   substract_two_pointers();
