@@ -25,7 +25,7 @@ int main() {
   std::for_each(numbers.begin(), numbers.end(),
                 [](int &num) { num = square(num); });
 
-  // Output squared elements using range-based for loop and auto keyword
+  // Output squared elements using ange-based for loop and auto keyword
   for (auto num : numbers) {
     std::cout << num << " ";
   }
