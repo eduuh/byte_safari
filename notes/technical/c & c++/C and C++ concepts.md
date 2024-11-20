@@ -4,7 +4,7 @@ aliases:
   - c
 tags:
   - c
-area: ""
+area: 
 project: dsa
 ---
 
@@ -148,7 +148,7 @@ r.width = 10;
 printf("Area of Rectagle is %d" r.length * r.width);
 ```
 
-## 3. [Pointers](./pointers/1_why&what_pointers.md)
+## 3. [Pointers](0_why&what_pointers.md)
 
 ### What are the type of variables?
 

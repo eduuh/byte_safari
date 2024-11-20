@@ -108,4 +108,4 @@ Two separate collections: O(a \* b)
 
 ### Recommendations: Navigations
 
-1. [Next: Recursion](./../a/recursion/recursion.md)
+1. [Next: Recursion](recursion.md)

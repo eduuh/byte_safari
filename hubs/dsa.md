@@ -1,11 +1,9 @@
 ---
-id: tags
+id: dsa
 aliases: []
 tags: []
 area: ""
 project: ""
 ---
 
-## tags
 
-C, Memory

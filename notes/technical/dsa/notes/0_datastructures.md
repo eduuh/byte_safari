@@ -137,4 +137,4 @@ void fun2 () {
 
 ### Recommendations: Navigations
 
-1. [Next: Time and Space Complexity](./1_time_n_spacecomplexity.md)
+1. [Next: Time and Space Complexity](1_time_n_spacecomplexity.md)

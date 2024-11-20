@@ -5,7 +5,7 @@ tags:
   - "[dsa](src/dsa/1730267414-dsa.md)"
 Tags: []
 area: ""
-project: ""
+project: reborn
 ---
 
 ## discuss pointer size & types.

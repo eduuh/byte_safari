@@ -1,8 +1,10 @@
 ---
-id: 1_why&what_pointers
-aliases: []
+id: 0_why&what_pointers
+aliases: 
 tags:
-  - "[Computer Memory](src/displine/technical/pointers/1730265622-computermemory.md)"
+  - "[Computer"
+  - Memory](src/displine/technical/pointers/1730265622-computermemory.md)
+  - "[dsa](notes/technical/pointers/1730272476-dsa.md)"
 area: "[software Enginnering](src/displine/technical/pointers/1730265653-software-enginnering.md)"
 project: reborn
 ---
