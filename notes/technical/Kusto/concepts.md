@@ -1,6 +1,6 @@
 ---
 id: concepts
-aliases: 
+aliases: []
 tags:
   - "[kusto](hubs/kusto.md)"
 area: data

@@ -21,7 +21,3 @@ project: ""
 9. Plumbing
 10. Heavy Equipment mechanics
 11. Hvac
-
-# eduuh's addition
-
-1. Muratina

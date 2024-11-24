@@ -1,6 +1,6 @@
 ---
 id: 0_why&what_pointers
-aliases: 
+aliases: []
 tags:
   - "[Computer"
   - Memory](src/displine/technical/pointers/1730265622-computermemory.md)
