@@ -12,7 +12,7 @@
       "command": "rustc -C opt-level=0 -C debuginfo=2 ${relativeFile} -o ${fileBasenameNoExtension}"
     },
     {
-      "label": "Compile G++",
+      "label": "CompileC",
       "type": "shell",
       "command": "g++ -ggdb ${relativeFile} -o ${fileBasenameNoExtension}"
     },
