@@ -15,6 +15,7 @@ int main() {
   for (auto num : numbers) {
     std::cout << num << " ";
   }
+
   std::cout << std::endl;
 
   // Use accumulate algorithm to sum all elements in the vector

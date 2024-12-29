@@ -1,4 +1,4 @@
-### Compiler optimations
+### Compiler optimizations
 
 ## Use volatile for
 

@@ -4,7 +4,9 @@ aliases: []
 tags: []
 area:
   - "[productivity](hubs/productivity.md)"
+priority: low
 project: productivity
+related: []
 ---
 
 ## hacks
