@@ -6,8 +6,6 @@ area: ""
 project: ""
 ---
 
-- Noting - for reference
-
 # Important skills to acquire
 
 1. Farming

@@ -1,9 +1,11 @@
 ---
 id: 1730265653-software-enginnering
-aliases: []
-tags: []
-area: ""
+aliases:
+  - sofware-engineering
+tags:
+  - software
+area: "[software Enginnering](src/displine/technical/pointers/1730265653-software-enginnering.md)"
 project: reborn
 ---
 
-# software Engineering
+# Software Engineering

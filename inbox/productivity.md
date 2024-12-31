@@ -9,8 +9,6 @@ project: productivity
 
 ## hacks
 
-[]
-
 1.  Its not what you make. Its what you keep
 
     - Tame your wage

@@ -2,8 +2,8 @@
 id: 1730265622-computermemory
 aliases:
   - ComputerMemory
-tags: []
-area: ""
+tags: 
+area: "[software Enginnering](src/displine/technical/pointers/1730265653-software-enginnering.md)"
 project: reborn
 ---
 
@@ -24,7 +24,7 @@ project: reborn
 
 - These variables are declared within a functions.
 - Created when the function is called.
-- The lifetime is limeted to the function execution.
+- The lifetime is limited to the function execution.
 
 ### 3. [Dynamic Memory](./C pointers.md)
 

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "src/dsa/ds/Array/array.md",
+                "file": "notes/technical/c & c++/c&c++ concepts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "array"
+              "title": "c&c++ concepts"
             }
           }
         ]
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "src/ds/Array/array.md"
+                "file": "notes/technical/c & c++/c&c++ concepts.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of array"
+              "title": "Outline of c&c++ concepts"
             }
           },
           {
@@ -171,11 +171,36 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "current-folder-notes-pamphlet:Activate folder notes display": false
+      "current-folder-notes-pamphlet:Activate folder notes display": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "9c1627b9420c0ba7",
   "lastOpenFiles": [
+    "notes/technical/c & c++/order.md",
+    "notes/technical/c & c++/c&c++ concepts.md",
+    "notes/technical/c & c++/pointers/0_why&what_pointers.md",
+    "notes/technical/Table of Content.md",
+    "notes/technical/c & c++/pointers/1_pointers_intro.md",
+    "topics/algorithms.md",
+    "notes/technical/js&ts/Typescript.md",
+    "notes/technical/Untitled",
+    "notes/technical/js&ts",
+    "notes/technical/computer/1730265653-software-enginnering.md",
+    "notes/technical/computer/1730265622-computermemory.md",
+    "notes/technical/computer/software-architecture.md",
+    "notes/soft/amerix.md",
+    "projects/nvim/readme.md",
+    "projects/nvim/ts/coverage/lcov-report/sort-arrow-sprite.png",
+    "projects/nvim/ts/coverage/lcov-report/favicon.png",
+    "notes/skills/1732460286-nvim-ideas.md",
+    "projects/c/AdvancedC.md",
+    "inbox/ideas.md",
+    "inbox/productivity.md",
+    "notes/soft/eduuh-addition.md",
+    "notes/skills/action_based_editing.md",
+    "notes/dailies/2024-11-20.md",
+    "inbox/1732477113-test.md",
     "src/dsa/a/recursion/recursion.md",
     "src/displine/technical/C and C++ concepts.md~",
     "src/displine/technical/4913",
@@ -185,7 +210,6 @@
     "src/dsa/notes/bigo.md",
     "Untitled.canvas",
     "src/displine",
-    "readme.md",
-    "src/dsa/ds/Array/array.md"
+    "readme.md"
   ]
 }
