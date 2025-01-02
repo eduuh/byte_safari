@@ -7,7 +7,7 @@ export interface IPostMeta {
   date: string;
   image: string;
   draft: boolean;
-  status?: "Complete" | "Ongoing" | "Deprecated"
+  status?: 'Complete' | 'Ongoing' | 'Deprecated';
 }
 
 export interface IPost {

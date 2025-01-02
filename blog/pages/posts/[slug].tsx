@@ -14,9 +14,8 @@ import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 import rehypeHighlight from 'rehype-highlight';
 import rehypeSlug from 'rehype-slug';
 import { IPostMeta } from 'types';
-import withToc from "@stefanprobst/rehype-extract-toc"
-import withTocExport from "@stefanprobst/rehype-extract-toc/mdx"
-
+import withToc from '@stefanprobst/rehype-extract-toc';
+import withTocExport from '@stefanprobst/rehype-extract-toc/mdx';
 
 interface IPostPage {
   post: {
@@ -33,13 +32,15 @@ const PostPage: NextPageWithLayout<IPostPage> = ({ post }) => {
 
       <div className="px-2">
         <div className="pt-5">
-          <div className='flex justify-between'>
+          <div className="flex justify-between">
             <div>
-              <h2 className='text-tertiary-light dark:text-tertiary-dark'>{post.meta.title}</h2>
+              <h2 className="text-tertiary-light dark:text-tertiary-dark">
+                {post.meta.title}
+              </h2>
               <PostDetails date={post.meta.date} status={post.meta.status} />
             </div>
             <div>
-              <div className="flex container mx-auto py-4 items-start h-full" >
+              <div className="flex container mx-auto py-4 items-start h-full">
                 <div className="hidden md:visible">
                   <div
                     onClick={() => router.back()}
@@ -56,8 +57,8 @@ const PostPage: NextPageWithLayout<IPostPage> = ({ post }) => {
             <MDXRemote {...post.source} components={MDXComponents} />
           </article>
         </div>
-      </div >
-    </section >
+      </div>
+    </section>
   );
 };
 
@@ -70,14 +71,13 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   const { content, meta } = getPostFromSlug(slug);
   const mdxSource = await serialize(content, {
     mdxOptions: {
-      remarkPlugins: [
-      ],
+      remarkPlugins: [],
       rehypePlugins: [
         rehypeSlug,
         [rehypeAutolinkHeadings, { behavior: 'wrap' }],
         rehypeHighlight,
         withToc,
-        [withTocExport, { name: 'toc' }]
+        [withTocExport, { name: 'toc' }],
       ],
     },
   });

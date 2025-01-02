@@ -9,5 +9,5 @@ export const MDXComponents = {
   Image,
   Space,
   PostDetails,
-  TOC
+  TOC,
 };

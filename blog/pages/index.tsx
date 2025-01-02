@@ -20,7 +20,6 @@ const Home: NextPageWithLayout<IHome> = ({ postsMeta }) => {
 
 export default Home;
 
-
 Home.getLayout = (page) => <MainLayout>{page}</MainLayout>;
 
 export async function getStaticProps() {

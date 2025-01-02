@@ -4,7 +4,13 @@ import matter from 'gray-matter';
 import path from 'path';
 import { IPost } from 'types';
 
-const PUBLISHED_POSTS_PATH = path.join(process.cwd(), '..', 'content', 'blogs', 'published');
+const PUBLISHED_POSTS_PATH = path.join(
+  process.cwd(),
+  '..',
+  'content',
+  'blogs',
+  'published'
+);
 
 export const getSlugs = (): string[] => {
   const paths = sync(`${PUBLISHED_POSTS_PATH}/*.mdx`);
@@ -45,7 +51,7 @@ export const getPostFromSlug = (slug: string): IPost => {
       date: (data.date ?? new Date()).toString(),
       image: data.image ?? '',
       draft: data.draft ?? false,
-      status: data.status ?? " "
+      status: data.status ?? ' ',
     },
   };
 };

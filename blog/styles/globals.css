@@ -5,7 +5,6 @@
 @tailwind utilities;
 
 @layer base {
-
   *,
   *::before,
   *::after {
@@ -118,11 +117,9 @@
     unicode-bidi: isolate;
   }
 
-
   @media (max-width: 35.1875rem) {
     body {
       --viewport-padding: 16px;
     }
   }
-
 }
