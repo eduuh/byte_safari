@@ -11,14 +11,10 @@
             "id": "9c1627b9420c0ba7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/technical/c & c++/pointers/1_pointers_intro.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "1_pointers_intro"
+              "title": "New tab"
             }
           }
         ]
@@ -173,33 +169,46 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "88b658bbd422f9bb",
+  "active": "9c1627b9420c0ba7",
   "lastOpenFiles": [
+    "notes/technical/c & c++/pointers/1_pointers_intro.md",
+    "notes/general/dsa/ds/physical_dsa/Array/array.testcases",
+    "notes/general/dsa/ds/physical_dsa/Array/array.rs",
+    "notes/general/dsa/ds/physical_dsa/Array/array.ts",
+    "notes/general/dsa/ds/physical_dsa/Array/array.md",
+    "notes/general/dsa/ds/physical_dsa/Array/array.js",
+    "notes/general/dsa/ds/physical_dsa/Array/array.c++",
+    "notes/general/dsa/ds/physical_dsa/linkedlist/linkedlist.md",
+    "notes/general/dsa/ds/logical_dsa/graph/adjacencyList.cpp",
+    "notes/general/dsa/ds/physical_dsa/linkedlist",
+    "notes/general/dsa/ds/physical_dsa/Array",
+    "notes/general/dsa/a/recursion/recursion.md",
+    "notes/general/dsa/ds/logical_dsa/graph",
+    "notes/general/dsa/notes/3_dynamicallocations.md",
+    "notes/general/dsa/notes/2_computermemory.md",
+    "notes/general/dsa/notes/1_time_n_spacecomplexity.md",
+    "notes/general/dsa/notes/1_time_n_spacecomplexity.c",
+    "notes/general/dsa/notes/0_datastructures.md",
+    "notes/general/c & c++/pointers/2_pointer_operations.md",
+    "notes/general/c & c++/pointers/1_pointers_intro.md",
+    "notes/general/c & c++/pointers/0_why&what_pointers.md",
+    "notes/general/Kusto/concepts.md",
+    "notes/general/math/discrete-math.md",
+    "notes/general/linux/bluoothctl.md",
+    "notes/general/dsa/1730267414-dsa.md",
+    "notes/general/computer/Networking.md",
+    "notes/general/computer/1730265653-software-enginnering.md",
+    "notes/general/computer/1730265622-computermemory.md",
+    "notes/general/c & c++/C and C++ concepts.md",
+    "notes/general/c & c++/order.md",
+    "notes/general/Typescript.md",
+    "notes/action_based_editing.md",
+    "notes/inbox/1732477113-test.md",
+    "notes/inbox/1732460286-nvim-ideas.md",
     "notes/technical/computer/Networking.md",
     "notes/technical/c & c++/pointers/0_why&what_pointers.md",
-    "notes/soft/productivity.md",
-    "notes/soft/eduuh-addition.md",
-    "notes/soft/amerix.md",
-    "notes/skills/action_based_editing.md",
-    "notes/dailies/2024-11-20.md",
-    "projects/nvim/readme.md",
     "projects/nvim/ts/coverage/lcov-report/favicon.png",
     "projects/nvim/ts/coverage/lcov-report/sort-arrow-sprite.png",
-    "projects/js/hardparts/hardparts.md",
-    "projects/ide_setup/cpp/readme.md",
-    "projects/cpp/the_lang/cc++.md",
-    "projects/c/AdvancedC.md",
-    "readme.md",
-    "ideas.md",
-    "src/dsa/a/recursion/recursion.md",
-    "src/displine/technical/C and C++ concepts.md~",
-    "src/displine/technical/4913",
-    "src/displine/technical/C and C++ concepts.md",
-    "src/displine/technical/Typescript.md",
-    "src/displine/technical/C pointers.md",
-    "src/dsa/notes/bigo.md",
-    "Untitled.canvas",
-    "src/displine",
-    "src/dsa/ds/Array/array.md"
+    "Untitled.canvas"
   ]
 }

@@ -1,0 +1,92 @@
+---
+Title: Nvim Keymaps Design
+tags:
+  - Custom Keyboard
+  - Mechanical Keyboard
+  - Nuphy
+date: 2024-31-8
+excerpt: A detailed overview of the Eduuh Custom Keyboard, including design choices, build process, and performance insights
+image: '/images/nuphy.webp'
+draft: true
+---
+
+## Principles
+
+2. Grep searching is always first. Use telescope first
+
+## Leader Keys
+
+- **Primary Leader:** Space (typed by thumbs).  
+  Example: `Space + w` to save, `Space + f` to find files.
+
+- **Secondary Leader:** `;` (typed by left pinky).  
+  Example: `; + l` to toggle line numbers, `; + c` to comment.
+
+## Nvim QuickFix List
+
+-  `; + n` : Next Entry -> Quick Fix list
+-  `; + p` : Previous Entry -> Quick Fix list
+
+## Power Moves
+
+-  `s + t`  : TodoTelescope    ->  Search Todos
+-  `s + f`  :  Find Files      -> find files(ignore hidden)
+-  `s + n` :  ObsidianSearch  -> Find note
+-  `s + s` : ChatGpt
+
+## Telescope [f (find), s (search)]
+
+
+-  `space + fn`  :  ObsidianSearch  -> Find note
+-  `space + fw`  :  Live grep       -> Find word
+-  `space + ff`  :  Find Files      -> find files(ignore hidden)
+-  `space + fb`  :  Find buffer   -> find open buffers
+-  `space + fd`  :  Find diagnostic   -> find workspace diagnostic
+-  `space + fo`  :  Find old   -> Find opened old files
+-  `space + fc` :  Buildin commands      -> Commands
+-  `space + sb`  : Fuzzy Search buffer   ->  Search buffer
+-  `space + sf`  : Open File Browser on the current file (ignore hidden)
+-  `space + sw`  :  Live grep       -> Find word under cursor
+-  `space + fm` : Search marks -> harpoon marks 
+-  `space + fr` : find and past register
+
+-  `; + m` : Add marks -> harpoon marks 
+-  `; + f` : Find files - including hidden
+-  `; + h` : Help tags -> Find help (plugins)
+-  `; + ;` : Open Telescope File browser
+-  `; + e` : Diagnostics for open buffers
+-  `; + s` : Find symbols
+-  `; + r` : Resume previous telescope
+
+TODO: 2: Add support for git-worktrees (when in workflow)
+
+### Telescope File Browser
+
+## LSP: Telescope
+
+-  `gR` : show definition, references
+-  `gD` : go to declaration
+-  `gd` : show lsp definitions
+-  `gi` : show lsp implementations
+-  `gt` : show lsp type definitions
+-  `space + ca` : see available code actions, in visual mode will apply to selection
+-  `space + rn` : smart rename
+-  `K` : show documentation for what is under cursor
+-  `space + rs` : show documentation for what is under cursor
+
+
+### Diagnostics -> More navigation
+
+-  `[ + d` : jump to previous diagnostic in buffer 
+-  `] + d` : jump to next diagnostic in buffer
+-  `[ + e` :  Next Error
+-  `] + e` : Prev Error
+-  `[ + w` :  Next Warning
+-  `] + w` : Prev Warning
+-  `space + dl` : show diagnostics for line
+-  `space + df` : show  diagnostics for file
+
+## Flash
+
+- /  -> flash search
+- S (capital S)  -> treessitter search
