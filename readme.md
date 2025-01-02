@@ -9,8 +9,7 @@ The top level folder structure is as follows.
 graph TD
     Root["/"]
     Root --> blog --> eduuh.com
-    Root --> content["Cleanup Notes"]
-    content --> MDX["MDX Files (.mdx)"]
+    Root --> content
     content  --> notes
     content --> blogs
     content --> topics
