@@ -8,7 +8,7 @@ const PUBLISHED_POSTS_PATH = path.join(
   process.cwd(),
   '..',
   'content',
-  'blogs',
+  'blog',
   'published'
 );
 
