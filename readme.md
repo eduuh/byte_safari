@@ -2,13 +2,15 @@
 id: readme
 aliases: []
 tags: []
-area: ""
-project: ""
+area: general
+priority: low
+project: none
+related: []
 ---
 
 ## Eduuh's Byte Safari
 
-This repository is designed to store my public notes and related source code together.
+This repository is designed to store my public notes, public blog related source code together.
 
 ### Objective
 
