@@ -15,7 +15,7 @@
     "glob": "^10.4.5",
     "gray-matter": "^4.0.3",
     "jest-environment-jsdom": "^29.7.0",
-    "next": "14.2.4",
+    "next": "14.2.15",
     "next-mdx-remote": "^5.0.0",
     "next-themes": "^0.3.0",
     "react": "18.3.1",
