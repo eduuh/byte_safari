@@ -11,6 +11,10 @@ project: personal
 related: "[nvim](hubs/nvim.md)"
 ---
 
+## Note
+
+This was a good idea in theory. But practically it did not work for me.
+
 ## Insert mode
 
 1. <Tab> Open completion

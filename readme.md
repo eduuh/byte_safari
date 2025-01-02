@@ -11,65 +11,74 @@ graph TD
     Root --> blog --> eduuh.com
     Root --> content
     content  --> notes
-    content --> blogs
+    content --> blog
     content --> topics
     content --> inbox
-    blogs --> draft
-    blogs --> published
+    blog --> draft
+    blog --> published
+    blog --> blog.md
     notes --> drafts
-    notes --> cleanups
     notes --> archived
-    notes --> dailies
+    notes --> tech
+    notes --> soft
+    notes --> notes.md
 
 ```
 
 Content is the obsidian vault.
 
-## Objective
+## The idea
 
-- **Knowledge Hub/Repository:** This acts like an Obsidian vault; it stores notes in Markdown, & mdx format. This is a growing space focusing on DSA, Neovim configurations, Math, and other interesting things.
+**Knowledge Hub/Repository:** This is a growing Obsidian vault; it stores notes in Markdown, & mdx format. Topics covered are.
 
-### 1. Data Structures & Algorithms (DSA)
+1. DSA - in different programming languages
+2. Neovim Configuration
+3. Command line interface tools (workflows)
+4. Note Taking
+5. Mathematics
+6. Hobbies - Motorcycles & Cars
 
-#### Goals
+### Data Structures & Algorithms (DSA)
+
+> Goals
 
 - Solve problems in single files with reusable, cross-language test cases.
 - Practice in multiple languages to learn new skills.
 - Continuously add new solutions and refine old ones.
 - Use [Neovim DAP](https://github.com/mfussenegger/nvim-dap) for quick debugging.
 
-#### Future Enhancements
+> Future Enhancements
 
 - Automate question downloads and solution submissions for platforms like [LeetCode](https://leetcode.com) and [Codeforces](https://codeforces.com).
 - Set up templates for competitive programming.
 - Add code runners and visualization tools to enhance learning and blogging.
 
-### 2. Neovim Configuration
+### Neovim Configuration
 
-#### Goals
+> Goals
 
 - Test and improve the stability of the Neovim setup with plugins, themes, and settings.
 - Maintain a lightweight and efficient configuration.
 
-#### Approach
+> Approach
 
 - Use an isolated environment to test changes without affecting the main setup.
 - Monitor performance and track changes using version control.
 
 ### 3. Competitive Programming
 
-#### Goals
+> Goals
 
 - Regularly practice DSA problems to build skills.
 - Review and optimize solutions for better performance.
 - Participate in coding contests on platforms like [LeetCode](https://leetcode.com) and [AtCoder](https://atcoder.jp/).
 
-#### Long-Term Vision
+> Long-Term Vision
 
 - Automate workflows for downloading, solving, and submitting problems via CLI.
 - Develop proficiency in multiple languages for flexibility in problem-solving.
 
-### 4. Growth & Challenges
+### Growth & Challenges
 
 - Maintain versioned solutions to track progress and improvements.
 - Organize solutions by topic (e.g., sorting, graphs, dynamic programming).
@@ -79,5 +88,4 @@ Content is the obsidian vault.
 ### Related Repositories
 
 1. [nvim Configuration](https://github.com/eduuh/nvim)
-2. [HomeLab](https://github.com/eduuh/homelab)
-3. [dotfiles - Base Configuration](https://github.com/eduuh/dotfiles)
+2. [dotfiles - Base Configuration](https://github.com/eduuh/dotfiles)
