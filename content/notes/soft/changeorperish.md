@@ -1,15 +1,81 @@
 ---
 id: changeorperish
 tags:
-  - americ
+  - americ, Jacob aliet
 date: "2025-01-02"
 excerpt: Learning That I should uphold
 image: ""
 status: Ongoing
-title: Important skills to acquire
+title: Important skills / Tools to acquire
 ---
 
-# Important skills to acquire
+# Things I Gift people
+
+1. [Treason by Miguna Miguan]()
+2. [Uplugged - Things our fathers did not tell us]
+
+# Song for Con men / haters
+
+1. [Malenbo](https://youtu.be/BTgb7asa0_I?si=4jdv7aTqXE_gh3sX)
+2. [Macu Muga](https://youtu.be/GYaLCqbuQlI?si=B0fFf0fuf4eM-gwN)
+
+# Quotes
+
+0. You cannot negotiate genuine desire. ~Jacob Aliet
+
+1. Stop complaining or whining.
+
+2. Disrespect.
+
+   Don't tolerate disrespect from a woman.
+
+   Whether it is offline or online.
+
+   Tolerating disrespect is lowering your frame and despising yourself.
+
+   Shut her out, focus on your purpose, and don't look back.
+
+   Respect is never optional. If she crosses the line, cut her off—no debates. No debates, no explanations
+
+   Respect is a two-way street (Respect to earn respect) – focus on your own values and growth.
+
+3. Don't refer yourself with a small i. "I am Edwin"
+
+4. Things Americ give in his office
+
+- Water
+
+• Apple Cider Vinegar
+
+• Black tea or green tea: sugarless
+
+• Black coffee: sugarless.
+
+— and BOOKS to read.
+
+•No food or snacks.
+
+• No TV.
+
+• No gossip
+
+Coffee is ground coffee, medium roast, brewed in the coffee maker.
+
+# how to handle break ups
+
+- Hit gym harder
+- Stack more money
+- Level up career
+- Build new skills
+- Expand network
+
+Channel pain into power. Let success be your response.
+
+Silent growth > Public weakness.
+
+# Truths
+
+# Important skills to acquire (americ)
 
 1. Farming
 2. Welding & Fabrication
@@ -23,7 +89,69 @@ title: Important skills to acquire
 10. Heavy Equipment mechanics
 11. Hvac
 
-## hacks
+## Focus on the 5Ms of MASCULINITY (Americ)
+
+• Mind
+
+• Muscle
+
+• Men
+
+• Material
+
+• Money
+
+Networth ( M + M + M + M )= Money.
+
+# Tools (Americ)
+
+Tools that every man should own
+
+- Toolbox
+
+- Panga
+
+- Jembe
+
+- Saw
+
+- G-clamp
+
+- Hammer
+
+- Pliers
+
+- Driller
+
+- Nails
+
+- Mattock/adze
+
+- Tape measure
+
+- Torch
+
+## Things you should have in your bedroom (Americ)
+
+• Panga, well sharpened.
+
+• Rungu.
+
+• Whip.
+
+• Hammer.
+
+• Sword.
+
+• Bow and arrows.
+
+Sign up for a licensed gun.
+
+Secure them safely.
+
+Become ruthless and dangerous.
+
+## hacks (Youtube)
 
 1.  Its not what you make. Its what you keep
 
@@ -130,3 +258,75 @@ title: Important skills to acquire
 
 - You network is your net worth
   - You become the average of the people you let influence you.
+
+# Money
+
+Business money is not your money UNLESS you want to close that business
+
+## Women
+
+### Dating
+
+Don't date or sleep with a woman who has tattoos.
+
+She has deep-rooted trauma.
+
+She is neurotic, chaotic, and psychopathic.
+
+She will break your TV or stone your car during a disagreement.
+
+You are not a therapist.
+
+We are in the game to win.
+
+### Arguments
+
+No arguments with women,
+
+Don't quarrel.
+
+She is like a child. Ignore her.
+
+Refuse to be drawn into petty chaos and feminine drama,
+
+— Whether it is offline or online
+
+Maintain a stoic demeanour.
+
+WE MUST WIN
+
+### Character
+
+Don't entertain women who talk trash about their previous relationships.
+
+If she talks rubbish & tarnishes her previous relationships, she will also talk bad about you.
+
+She is the problem.
+
+Avoid her.
+
+A good woman avoids her previous failures.
+
+## Men
+
+Avoid reckless ejaculation.
+
+Value your semen.
+
+Transmute your sexual energy to something meaningful.
+
+Also, use a condom.
+
+Once the sperm leaves the urethral meatus, you have little to zero control of the outcome.
+
+Don't live to regret.
+
+## YouTube videos
+
+1. [Why men have no business treating women like Queens,
+   marrying young & accepting unrealistic standards](https://youtu.be/uA-l59b1T0w?si=_gYPR6heEPga0bNp)
+
+2. Lynn Ngugi [I refused to sell Wambugu apple business to a white man for 30M, today it’s worth billions | LNN](https://youtu.be/u_vCNog0Q6g?si=1-xVZ2Fm5y8uhTbq)
+
+   - Give you kids things when you are Alive. (inheritance)
+     - Teach your kids morals not to sell inheritance.

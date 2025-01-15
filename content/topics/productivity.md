@@ -1,11 +1,15 @@
 ---
 id: productivity
-aliases: []
 tags: []
 area: ""
+date: general
+excerpt: description
+image: image path
 priority: high
 project: ""
 related: []
+status: draft
+title: Tools
 ---
 
 # Tools
