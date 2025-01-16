@@ -7,7 +7,6 @@ import { IPost } from 'types';
 const PUBLISHED_POSTS_PATH = path.join(
   process.cwd(),
   '..',
-  'content',
   'blog',
   'published'
 );

@@ -1,6 +1,7 @@
 # Eduuh's Byte Safari
 
-This repository is designed to store my public notes, public blog related source code together.
+This repository is designed to store my public notes, public blog
+related source code together.
 
 The top level folder structure is as follows.
 
@@ -10,10 +11,10 @@ graph TD
     Root["/"]
     Root --> blog --> eduuh.com
     Root --> content
-    content  --> notes
-    content --> blog
-    content --> topics
-    content --> inbox
+    Root --> notes
+    Root --> blog
+    Root --> topics
+    Root --> inbox
     blog --> draft
     blog --> published
     blog --> blog.md
@@ -29,7 +30,8 @@ Content is the obsidian vault.
 
 ## The idea
 
-**Knowledge Hub/Repository:** This is a growing Obsidian vault; it stores notes in Markdown, & mdx format. Topics covered are.
+**Knowledge Hub/Repository:** This is a growing Obsidian vault;
+it stores notes in Markdown, & mdx format. Topics covered are.
 
 1. DSA - in different programming languages
 2. Neovim Configuration
@@ -49,7 +51,8 @@ Content is the obsidian vault.
 
 > Future Enhancements
 
-- Automate question downloads and solution submissions for platforms like [LeetCode](https://leetcode.com) and [Codeforces](https://codeforces.com).
+- Automate question downloads and solution submissions
+  for platforms like [LeetCode](https://leetcode.com) and [Codeforces](https://codeforces.com).
 - Set up templates for competitive programming.
 - Add code runners and visualization tools to enhance learning and blogging.
 
@@ -71,7 +74,8 @@ Content is the obsidian vault.
 
 - Regularly practice DSA problems to build skills.
 - Review and optimize solutions for better performance.
-- Participate in coding contests on platforms like [LeetCode](https://leetcode.com) and [AtCoder](https://atcoder.jp/).
+- Participate in coding contests on platforms like [LeetCode]
+  (<https://leetcode.com>) and [AtCoder](https://atcoder.jp/).
 
 > Long-Term Vision
 
