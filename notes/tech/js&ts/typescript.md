@@ -8,14 +8,14 @@ area: web
 project: web
 ---
 
-### initialize a ts debug app
+# initialize a ts debug app
 
 ```bash
 npx tsc --init
 npm install ts-node # allows debugging
 ```
 
-### Allow source maps in ts-config
+## Allow source maps in ts-config
 
 ```json
 "compilerOptions": {

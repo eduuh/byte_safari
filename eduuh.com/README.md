@@ -1,1 +1,1 @@
-## Eduuh blog
+# eduuh.com blog
