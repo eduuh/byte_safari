@@ -24,13 +24,8 @@
       "name": "Typescript (config)",
       "type": "node",
       "request": "launch",
-      "args": [
-        "${relativeFile}"
-      ],
-      "runtimeArgs": [
-        "-r",
-        "ts-node/register"
-      ],
+      "args": ["${relativeFile}"],
+      "runtimeArgs": ["-r", "ts-node/register"],
       "cwd": "${workspaceFolder}",
       "protocol": "inspector",
       "internalConsoleOptions": "openOnSessionStart",
@@ -39,6 +34,16 @@
         "${workspaceFolder}/**",
         "!**/node_modules/**"
       ]
+    },
+    {
+      "name": "JavaScript (config)",
+      "type": "node",
+      "request": "launch",
+      "args": ["${relativeFile}"],
+      "cwd": "${workspaceFolder}",
+      "protocol": "inspector",
+      "internalConsoleOptions": "openOnSessionStart",
+      "sourceMaps": false
     }
   ]
 }
