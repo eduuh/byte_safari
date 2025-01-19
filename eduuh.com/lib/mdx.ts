@@ -4,12 +4,7 @@ import matter from 'gray-matter';
 import path from 'path';
 import { IPost } from 'types';
 
-const PUBLISHED_POSTS_PATH = path.join(
-  process.cwd(),
-  '..',
-  'blog',
-  'published'
-);
+const PUBLISHED_POSTS_PATH = path.join(process.cwd(), 'posts', 'published');
 
 export const getSlugs = (): string[] => {
   const paths = sync(`${PUBLISHED_POSTS_PATH}/*.mdx`);
