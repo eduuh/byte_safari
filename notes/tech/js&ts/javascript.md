@@ -775,4 +775,135 @@ console.log("Me First")
 3. **Web application** Asynchronous JavaScript is the backbone of the modern web
    letting us build fast 'non-blocking' application
 
-### Object Oriented JavaScript. Classes, Prototypes
+## Object Oriented JavaScript. Classes, Prototypes
+
+- An popular paradigm for structuring our complex code.
+- Prototype chain - the feature behind-the-scene that enable emulation of OOP.
+- Understating the difference between \*_\*\_proto\*_\*\_ and prototype.
+- The **new** and class keyword as tool to automate our object & method creation
+
+- what the new keyword doing under the hood?
+
+### Core of development
+
+1. Save data (e.g in a quiz game the score of User1 & user2)
+2. Run code (functions) using the data. (increase user2 score)
+
+In 100,000 line of code,
+
+- where is the functionality when I need it?
+- How do I make sure the functionality uses right data?
+
+> That is, I want my code to be:
+
+- Easy to reason about.
+
+But also
+
+- Easy to add features to new functionality
+- Nevertheless efficient and performant
+
+### Objects
+
+- Store functions with the associated data!
+- Breaking dry principles
+
+```jsavascript
+const user1  = {
+   name: "will"
+   score: 3,
+   increment: function() { user1.score++}
+}
+
+user1.increment() //user1.score -> 4
+
+//alternative
+
+const user2 = {}
+user2.name = "Tim"
+user2.score = 6;
+user2.increment = function() { user2.score++}
+
+const user3 = Object.create(null)
+user3.name = "Eva";
+user3.score = 9,
+user3.increment = function() { user3.score++}
+```
+
+> solution to solve repetition
+
+- using a function. Never use this in practice
+
+```javascript
+function userCreator(name, score) {
+  const newUser = {};
+  newUser.name = name;
+  newUser.score = score;
+  newUser.increment = function () {
+    newUser.score++;
+  };
+}
+
+const user1 = userCreator("Will", 3);
+user1.increment();
+
+const user2 = userCreator("Tim", 5);
+user2.increment();
+```
+
+### Prototype Chain
+
+- Store the increment function in just one object and have the interpreter.
+
+  - if it doesn't find the on user1, look up that object to check if there.
+
+- Link user1 and functionStore so that the interpreter, on not finding increment make sure to
+  - check up in the functionStore where its would find it.
+
+Make the link with Object.create() technique.
+
+```javascript
+const userFunctionStore = {
+  increment: function () {
+    this.score++;
+  },
+  login: function () {
+    console.log("You're logged in");
+  },
+}
+
+functiion userCreator(name, score) {
+  const newUser = Object.create(userFunctionStore);   //creates a __proto__ link
+  newUser.name = name;
+  newUser.score = score;
+  return newUser;
+}
+
+const user1 = userCreator("Will", 3);
+const user2 = userCreator("Edwin", 5)
+user1.increment();
+```
+
+All object in JavaScript by default link to Object.prototype if a link is not formed
+
+- If a link is created to another object.
+- The object.prototype object will be available through the link. (Prototype chain)
+
+- The object bring in some functions on object.
+
+### Class
+
+```JavaScript
+class UserCreator {
+  constructor(name, score) {
+    this.name = name;
+    this.score = score;
+  }
+
+  increment(){ this.score++}
+  loging() { console.log("login")}
+}
+
+const user1 =new UserCreator("Edwin", 9);
+user1.increment();
+```
