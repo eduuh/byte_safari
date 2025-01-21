@@ -9,17 +9,42 @@ status: Ongoing
 title: Important skills / Tools to acquire
 ---
 
-# Things I Gift people
+<!--toc:start-->
 
-1. [Treason by Miguna Miguan]()
+- [Things I Gift people](#things-i-gift-people)
+- [Song for haters](#song-for-haters)
+- [Quotes](#quotes)
+- [How to handle break ups](#how-to-handle-break-ups)
+  - [Important skills to acquire (Americ)](#important-skills-to-acquire-americ)
+  - [Focus on the 5Ms of MASCULINITY (Americ)](#focus-on-the-5ms-of-masculinity-americ)
+  - [Tools To acquire(Americ)](#tools-to-acquireameric)
+  - [Things you should have in your bedroom (Americ)](#things-you-should-have-in-your-bedroom-americ)
+- [hacks (YouTube)](#hacks-youtube)
+- [Life plan](#life-plan)
+- [Productivity hack](#productivity-hack)
+- [Act like own billions](#act-like-own-billions)
+  - [level of luck](#level-of-luck)
+  - [what is the essence of life?](#what-is-the-essence-of-life)
+- [Money](#money)
+- [Women](#women)
+  - [Dating](#dating)
+  - [Arguments](#arguments)
+  - [Character](#character)
+- [Men](#men)
+- [YouTube videos](#youtube-videos)
+<!--toc:end-->
+
+## Things I Gift people
+
+1. Treason by Miguna Miguna
 2. [Uplugged - Things our fathers did not tell us]
 
-# Song for Con men / haters
+## Song for haters
 
 1. [Malenbo](https://youtu.be/BTgb7asa0_I?si=4jdv7aTqXE_gh3sX)
 2. [Macu Muga](https://youtu.be/GYaLCqbuQlI?si=B0fFf0fuf4eM-gwN)
 
-# Quotes
+## Quotes
 
 0. You cannot negotiate genuine desire. ~Jacob Aliet
 
@@ -35,9 +60,11 @@ title: Important skills / Tools to acquire
 
    Shut her out, focus on your purpose, and don't look back.
 
-   Respect is never optional. If she crosses the line, cut her off—no debates. No debates, no explanations
+   Respect is never optional. If she crosses the line, cut her off—no debates.
+   No debates, no explanations
 
-   Respect is a two-way street (Respect to earn respect) – focus on your own values and growth.
+   Respect is a two-way street (Respect to earn respect) – focus on your
+   own values and growth.
 
 3. Don't refer yourself with a small i. "I am Edwin"
 
@@ -61,7 +88,7 @@ title: Important skills / Tools to acquire
 
 Coffee is ground coffee, medium roast, brewed in the coffee maker.
 
-# how to handle break ups
+## How to handle break ups
 
 - Hit gym harder
 - Stack more money
@@ -73,9 +100,7 @@ Channel pain into power. Let success be your response.
 
 Silent growth > Public weakness.
 
-# Truths
-
-# Important skills to acquire (americ)
+### Important skills to acquire (Americ)
 
 1. Farming
 2. Welding & Fabrication
@@ -89,7 +114,7 @@ Silent growth > Public weakness.
 10. Heavy Equipment mechanics
 11. Hvac
 
-## Focus on the 5Ms of MASCULINITY (Americ)
+### Focus on the 5Ms of MASCULINITY (Americ)
 
 • Mind
 
@@ -103,7 +128,7 @@ Silent growth > Public weakness.
 
 Networth ( M + M + M + M )= Money.
 
-# Tools (Americ)
+### Tools To acquire(Americ)
 
 Tools that every man should own
 
@@ -131,7 +156,7 @@ Tools that every man should own
 
 - Torch
 
-## Things you should have in your bedroom (Americ)
+### Things you should have in your bedroom (Americ)
 
 • Panga, well sharpened.
 
@@ -151,38 +176,38 @@ Secure them safely.
 
 Become ruthless and dangerous.
 
-## hacks (Youtube)
+## hacks (YouTube)
 
-1.  Its not what you make. Its what you keep
+1. Its not what you make. Its what you keep
 
-    - Tame your wage
+   - Tame your wage
 
-2.  Pay yourself first
+2. Pay yourself first
 
-    - You are the most important investment.
-    - Take care of you body.
+   - You are the most important investment.
+   - Take care of you body.
 
-3.  Assign you priority.
+3. Assign you priority.
 
-    - you can have it all but not all at once.
+   - you can have it all but not all at once.
 
-4.  Never begin the day before you finish it on paper.
+4. Never begin the day before you finish it on paper.
 
-5.  Avoid lifestyle creep.
+5. Avoid lifestyle creep.
 
-    - live as little as possible for as long as possible.
+   - live as little as possible for as long as possible.
 
-6.  Minimizing blowing
+6. Minimizing blowing
 
-    - how do you borrow money to make yourself money?
-    - Borrow to invest in yourself & not your lifestyle.
-    - Analyse risk return ratio
+   - how do you borrow money to make yourself money?
+   - Borrow to invest in yourself & not your lifestyle.
+   - Analyse risk return ratio
 
-7.  Your life is a business.
+7. Your life is a business.
 
-    - You life should be in an accounting software.
+   - You life should be in an accounting software.
 
-8.  define your why
+8. define your why
 
 ## Life plan
 
@@ -237,7 +262,7 @@ Become ruthless and dangerous.
    - If I can get 1% better everyday -> the compounding with be alot.
    - Remember its not a fair comparison since your environment are different.
 
-## Act like a billioneer
+## Act like own billions
 
 1. Invest in your skill set not you lifestyle
 
@@ -252,14 +277,14 @@ Become ruthless and dangerous.
 - When the tide goes back. you will see who was swimming naked.
 - If everybody is in your space - you are in the wrong idea.
 
-### Todo; 4 level of luck
+### level of luck
 
-## what is the essence of life?
+### what is the essence of life?
 
 - You network is your net worth
   - You become the average of the people you let influence you.
 
-# Money
+## Money
 
 Business money is not your money UNLESS you want to close that business
 
@@ -299,7 +324,8 @@ WE MUST WIN
 
 Don't entertain women who talk trash about their previous relationships.
 
-If she talks rubbish & tarnishes her previous relationships, she will also talk bad about you.
+If she talks rubbish & tarnishes her previous relationships,
+she will also talk bad about you.
 
 She is the problem.
 
@@ -317,7 +343,8 @@ Transmute your sexual energy to something meaningful.
 
 Also, use a condom.
 
-Once the sperm leaves the urethral meatus, you have little to zero control of the outcome.
+Once the sperm leaves the urethral meatus, you have little to
+zero control of the outcome.
 
 Don't live to regret.
 
@@ -326,7 +353,7 @@ Don't live to regret.
 1. [Why men have no business treating women like Queens,
    marrying young & accepting unrealistic standards](https://youtu.be/uA-l59b1T0w?si=_gYPR6heEPga0bNp)
 
-2. Lynn Ngugi [I refused to sell Wambugu apple business to a white man for 30M, today it’s worth billions | LNN](https://youtu.be/u_vCNog0Q6g?si=1-xVZ2Fm5y8uhTbq)
+2. Lynn Ngugi [Wambugu Apples | LNN](https://youtu.be/u_vCNog0Q6g?si=1-xVZ2Fm5y8uhTbq)
 
    - Give you kids things when you are Alive. (inheritance)
      - Teach your kids morals not to sell inheritance.
