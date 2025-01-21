@@ -6,8 +6,6 @@ area: ""
 project: ""
 ---
 
-;
-
 ## C++ Array
 
 - Array are index based from 0.
