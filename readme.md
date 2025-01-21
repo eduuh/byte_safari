@@ -4,6 +4,30 @@ This repository is designed to store my public notes and related source code tog
 
 ## Data Structures & Algorithms (DSA)
 
+```mermaid
+graph TD
+
+  O[Linked List] --> P[Head]
+  P[Head] --> Q[Node 1]
+  Q[Node 1] --> R[Node 2]
+  S[Node 2] --> T[Tail]
+
+
+  G[Graph] --> H[Node 1]
+  G[Graph] --> I[Node 2]
+  G[Graph] --> J[Node 3]
+  H[Node 1] -- Edge --> I[Node 2]
+  I[Node 2] -- Edge --> J[Node 3]
+
+  K[Tree] --> L[Root]
+  K[Tree] --> M[Child 1]
+  K[Tree] --> N[Child 2]
+  L[Root] --> M[Child 1]
+  L[Root] --> N[Child 2]
+  K[Tree] --> N[Child 3]
+
+```
+
 > Goals
 
 - Solve problems in single files with reusable cross-language test cases.
