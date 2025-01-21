@@ -13,6 +13,7 @@ title: ""
 - [Fun Skill](#fun-skill)
   - [Touch Typing](#touch-typing)
     - [Advantages](#advantages)
+    - [TTyper (command line tool)](#ttyper-command-line-tool)
   - [Keyboard Centric Workflows](#keyboard-centric-workflows)
   - [Scripting](#scripting)
 - [Day To Day](#day-to-day)
