@@ -10,7 +10,17 @@ status: Ongoing
 title: Notes Folder - Links
 ---
 
-# tech
+<!--toc:start-->
+
+- [dsa](#dsa)
+  - [array](#array)
+  - [graph](#graph)
+  - [linkedlist](#linkedlist)
+- [kusto](#kusto)
+- [js&ts](#jsts)
+- [soft](#soft)
+- [archived](#archived)
+<!--toc:end-->
 
 ## dsa
 
@@ -21,7 +31,7 @@ title: Notes Folder - Links
 
 ### array
 
-1. [Array Spec](./tech/dsa/array/array.md)
+1. [Array Spec](/notes/tech/dsa/Array/array.md)
 
 ### graph
 
@@ -33,16 +43,16 @@ title: Notes Folder - Links
 
 ## kusto
 
-1. [Concepts](./drafts/kusto/concepts.md)
+1. [Concepts](./tech/kusto/concepts.md)
 
 ## js&ts
 
-1. [Typscipt](./tech/js&ts/typescript.md)
+1. [TypeScript](./tech/js&ts/typescript.md)
 
-# soft
+## soft
 
 1. [Change or Perish](./soft/changeorperish.md)
 
-# archived
+### archived
 
 1. [Action Based Editing](./archived/1732460286-nvim-ideas.md)

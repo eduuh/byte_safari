@@ -8,6 +8,18 @@ status: draft
 title: ""
 ---
 
+# Boosting Your programming Power
+
+<!--toc:start-->
+
+- [Boosting Your programming Power](#boosting-your-programming-power)
+  - [Efficiency](#efficiency)
+  - [Leverage](#leverage)
+  - [As a back end engineer](#as-a-back-end-engineer)
+  - [blogs](#blogs)
+  - [neorg](#neorg)
+  <!--toc:end-->
+
 ## Efficiency
 
 1. Context switching. Batching your meetings, remove some meeting.
@@ -31,7 +43,7 @@ title: ""
    - Communicative leaders
    - Mentoring to master. Mentoring is a tool for mastering
 
-## As a back end engineer.
+## As a back end engineer
 
 You should learn:
 
@@ -61,11 +73,11 @@ Stop jumping from one language to the other
 
 ## blogs
 
-https://learn.withmarko.com/sw101
-https://vhyrro.github.io/tags/
+<https://learn.withmarko.com/sw101>
+<https://vhyrro.github.io/tags/>
 
-## neorg
+## neorg: Note Taking
 
-https://github.com/nvim-neorg/norg-specs/blob/main/1.0-specification.norg
-https://github.com/nvim-neorg/norg-specs/blob/main/1.0-semantics.norg
-https://github.com/nvim-neorg/neorg/blob/main/doc/cheatsheet.norg
+<https://github.com/nvim-neorg/norg-specs/blob/main/1.0-specification.norg>
+<https://github.com/nvim-neorg/norg-specs/blob/main/1.0-semantics.norg>
+<https://github.com/nvim-neorg/neorg/blob/main/doc/cheatsheet.norg>
