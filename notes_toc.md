@@ -16,6 +16,10 @@
 
 ### Other Tech Related Reads
 
+### Bitwise Concepts
+
+1. [Bitwise Concepts](./tech/dsa/bitwise/bitwise.md)
+
 ### Kusto
 
 1. [Concepts](./tech/kusto/concepts.md)
