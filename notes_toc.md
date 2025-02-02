@@ -1,3 +1,13 @@
+---
+id: notes_toc
+tags: []
+date: general
+excerpt: description
+image: image path
+status: draft
+title: Data Structures And Algorithms
+---
+
 # Data Structures And Algorithms
 
 1. [Data Structures](./tech/dsa/bigo_dsa.md)
@@ -34,8 +44,6 @@
 1. [Asynchronous Hard Parts](./tech/js/asynchronous_js_hard_parts.md)
 
 ## Soft Note
-
-1. [Change or Perish](./soft/changeorperish.md)
 
 ### archived Notes
 
